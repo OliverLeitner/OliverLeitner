@@ -1,4 +1,4 @@
-### Hi there 👋
+### My name is Oliver Leitner 👋
 
 <!--
 **OliverLeitner/OliverLeitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+#### Welcome to my collection of creatures, small and large
+
+toy with it, enjoy it =)
