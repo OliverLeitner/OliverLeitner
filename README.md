@@ -1,5 +1,7 @@
 ### My name is Oliver Leitner 👋
 
+### and i think i am a developer
+
 <!--
 **OliverLeitner/OliverLeitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
