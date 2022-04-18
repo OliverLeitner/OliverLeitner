@@ -2,6 +2,8 @@
 
 ### and i think i am a developer
 
+![my codewars badge.](https://www.codewars.com/users/OliverLeitner/badges/micro)
+
 <!--
 **OliverLeitner/OliverLeitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
