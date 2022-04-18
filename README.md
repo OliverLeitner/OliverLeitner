@@ -2,7 +2,7 @@
 
 ### and i think i am a developer
 
-<a href="https://www.codewars.com/users/OliverLeitner" target="_blank">[![my codewars badge.](https://www.codewars.com/users/OliverLeitner/badges/large)]</a>
+<a href="https://www.codewars.com/users/OliverLeitner" title="my codewars profile" target="_blank"><img style="border:0" src="https://www.codewars.com/users/OliverLeitner/badges/large" alt="my codewars profile"/></a>
 
 <!--
 **OliverLeitner/OliverLeitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
