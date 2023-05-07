@@ -35,7 +35,8 @@ this is *NOT ME*:
 - https://www.linkedin.com/in/oliver-leitner-908a12268/?originalSubdomain=at
 - https://www.tennissteiermark.at/spieler/detail/mm/pi/NU729928.html
 - https://www.linkedin.com/in/oliver-leitner-792068146/
-\... you get the idea...
+
+... you get the idea...
 
 <!--
 **OliverLeitner/OliverLeitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
