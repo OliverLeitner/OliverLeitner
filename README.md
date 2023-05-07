@@ -12,6 +12,10 @@ To get a full list of all of my repositories, either click on the "Repositories"
 
 <a href="https://www.codewars.com/users/OliverLeitner" title="my codewars profile" target="_blank" rel="noopener"><img style="border:0" src="https://www.codewars.com/users/OliverLeitner/badges/large" alt="my codewars profile"/></a>
 
+My work focus:
+
+- Web Developmer, mainly frontend but not limited to. Been doing it for years in everything that came along technology wise.
+
 <!--
 **OliverLeitner/OliverLeitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
