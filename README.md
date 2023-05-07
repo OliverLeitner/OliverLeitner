@@ -18,7 +18,7 @@ My work focus (so far):
 
 My stance on AI and using copilot and tools alike:
 
-- None of my demos or code has been done using assisting technologies, that does not mean id never use them, it just means i had no reason to so far. I have been playing around with openai's chatgpt and a bit of copilot in the past and can see a place for them in assisting with getting things done faster. Then again, i love to learn new things and actually understand them. In short: its complicated.
+- None of my demos or code has been done using assisting technologies, that does not mean id never use them, it just means i had no reason to so far. I have been playing around with openai's chatgpt and a bit of copilot in the past and can see a place for them in assisting with getting things done faster. Then again, i love to learn new things and actually understand them.
 
 Leitner is a relatively common name in austria, so lets get some things straight:
 
