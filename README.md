@@ -14,7 +14,7 @@ To get a full list of all of my repositories, either click on the "Repositories"
 
 My work focus (so far):
 
-- Web Developmer, mainly frontend but not limited to. Been doing it for years in everything that came along technology wise.
+- Web Development, mainly frontend but not limited to. Been doing it for years in everything that came along technology wise.
 
 <!--
 **OliverLeitner/OliverLeitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
