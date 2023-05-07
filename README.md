@@ -20,6 +20,23 @@ My stance on AI and using copilot and tools alike:
 
 - None of my demos or code has been done using assisting technologies, that does not mean id never use them, it just means i had no reason to so far. I have been playing around with openai's chatgpt and a bit of copilot in the past and can see a place for them in assisting with getting things done faster. Then again, i love to learn new things and actually understand them. In short: its complicated.
 
+Leitner is a relatively common name in austria, so lets get some things straight:
+
+this is *NOT ME*:
+
+- https://github.com/oliversalzburg
+- https://fromthetop.org/musician/oliver-leitner/
+- https://www.linkedin.com/in/oliverleitner/?originalSubdomain=ca
+- https://www.imdb.com/name/nm13981088/
+- https://www.linkedin.com/in/oliver-leitner-b83348a9/?originalSubdomain=it
+- https://www.fsm.law/team/leitner/
+- https://twitter.com/OliverLeitner
+- https://recherchegraz.noblogs.org/post/tag/oliver-leitner/
+- https://www.linkedin.com/in/oliver-leitner-908a12268/?originalSubdomain=at
+- https://www.tennissteiermark.at/spieler/detail/mm/pi/NU729928.html
+- https://www.linkedin.com/in/oliver-leitner-792068146/
+... you get the idea...
+
 <!--
 **OliverLeitner/OliverLeitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
