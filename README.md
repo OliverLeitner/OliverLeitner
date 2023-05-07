@@ -16,6 +16,10 @@ My work focus (so far):
 
 - Web Development, mainly frontend but not limited to. Been doing it for years in everything that came along technology wise.
 
+My stance on AI and using copilot and tools alike:
+
+- None of my demos or code has been done using assisting Technologies, that does not mean id never use them, it just means i had no reason to so far. I have been playing around with openai's chatgpt and a bit of copilot in the past and can see a place for them in assisting with getting things done faster, then again i love to learn new things and actually understand them. in short: its complicated.
+
 <!--
 **OliverLeitner/OliverLeitner** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
