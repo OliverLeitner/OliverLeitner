@@ -1,6 +1,6 @@
 ### My name is Oliver Leitner 👋
 
-### and i think i am a developer
+### and i think i am a developer (famous quote)
 
 The pinned Repositories on my dashboard are projects which are or where in active use by other ppls as well as me.
 To get a full list of all of my repositories, either click on the "Repositories" tab above, or follow this link:
